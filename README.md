@@ -5,10 +5,7 @@
 
 | Campo | Valor |
 |---|---|
-| Empresa fictícia | NorteSoft Tecnologia Ltda. (software house) |
-| Grupo | GrupoXX *(preencher)* |
-| Turma | *(preencher)* |
-| Integrantes | *(Nome completo 1)* · *(Nome completo 2)* · *(Nome completo 3)* · *(Nome completo 4, se houver)* |
+| Integrantes | *Lucas Moura* · *Davi Mota* · *Henrique dos Santos* |
 | Ferramenta | Cisco Packet Tracer |
 
 ## Resumo da solução
