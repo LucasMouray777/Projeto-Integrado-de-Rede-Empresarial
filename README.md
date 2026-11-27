@@ -44,7 +44,7 @@ Totais: **16 PCs + 1 servidor + 1 impressora = 18 dispositivos finais**, 3 switc
 
 ## Como abrir e testar o projeto
 
-1. Abra `packet-tracer/NorteSoft_T4.pkt` no Cisco Packet Tracer.
+1. Abra `packet-tracer/ipv4.pkt` no Cisco Packet Tracer.
 2. Aguarde a convergência (links verdes). Em PCs, o primeiro ping pode dar *timeout* por causa do ARP; repita.
 3. Execute os testes descritos na seção 7 de [`documentacao/RELATORIO.md`](documentacao/RELATORIO.md).
    Exemplos rápidos:
