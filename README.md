@@ -1,4 +1,4 @@
-# NorteSoft Tecnologia — Projeto Integrado de Rede Empresarial
+# Projeto Integrado de Rede Empresarial
 
 **Faculdade Serra Dourada · ADS · Redes de Computadores**
 **Trabalho 4 · 2º semestre de 2026 · Professor: Guibson Krause**
